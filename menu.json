@@ -1,0 +1,390 @@
+{
+  "makanan": [
+    {
+      "id": 1,
+      "nama": "Nasi Kuning Banjar",
+      "asal": "Borneo",
+      "harga": 25000,
+      "deskripsi": "Nasi kuning khas Banjar yang gurih dengan lauk pauk tradisional Kalimantan.",
+      "gambar": "assets/images/nasi_kuning_banjar.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Ketupat Kandangan",
+      "asal": "Borneo",
+      "harga": 20000,
+      "deskripsi": "Ketupat dengan kuah santan gurih dan ikan haruan panggang khas Kalimantan Selatan.",
+      "gambar": "assets/images/ketupat_kandangan.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Ayam Cincane",
+      "asal": "Borneo",
+      "harga": 40000,
+      "deskripsi": "Ayam bakar khas Samarinda dengan bumbu merah yang manis dan gurih.",
+      "gambar": "assets/images/ayam_cincane.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Soto Banjar",
+      "asal": "Borneo",
+      "harga": 20000,
+      "deskripsi": "Soto khas Banjar dengan kuah bening gurih dan taburan bawang goreng.",
+      "gambar": "assets/images/soto_banjar.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Nasi Goreng Jawa",
+      "asal": "Java",
+      "harga": 25000,
+      "deskripsi": "Nasi goreng khas Jawa dengan cita rasa manis gurih dari kecap dan rempah.",
+      "gambar": "assets/nasgorjawa.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Sate Ayam Madura",
+      "asal": "Java",
+      "harga": 30000,
+      "deskripsi": "Sate ayam khas Madura dengan bumbu kacang yang gurih dan sedikit pedas.",
+      "gambar": "assets/sate1.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Soto Betawi",
+      "asal": "Java",
+      "harga": 28000,
+      "deskripsi": "Soto berkuah santan kental khas Jakarta dengan daging sapi dan jeroan.",
+      "gambar": "assets/soto betawi.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Gudeg Jogja",
+      "asal": "Java",
+      "harga": 20000,
+      "deskripsi": "Olahan nangka muda dimasak dengan santan dan gula merah hingga manis legit.",
+      "gambar": "assets/images/gudeg_jogja.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Mie Aceh",
+      "asal": "Andalas",
+      "harga": 25000,
+      "deskripsi": "Mie tebal berbumbu kari pedas khas Aceh dengan potongan daging sapi atau seafood.",
+      "gambar": "assets/mieaceh.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Kepiting Saus Padang",
+      "asal": "Andalas",
+      "harga": 100000,
+      "deskripsi": "Kepiting segar dengan saus Padang pedas manis yang menggugah selera.",
+      "gambar": "assets/kepitingpadang.jpg"
+    },
+    {
+      "id": 11,
+      "nama": "Pempek Palembang",
+      "asal": "Andalas",
+      "harga": 20000,
+      "deskripsi": "Olahan ikan tenggiri dan sagu disajikan dengan kuah cuka khas Palembang.",
+      "gambar": "assets/images/pempek_palembang.jpg"
+    },
+    {
+      "id": 12,
+      "nama": "Rendang Padang",
+      "asal": "Andalas",
+      "harga": 45000,
+      "deskripsi": "Daging sapi dimasak lama dengan santan dan rempah hingga kering, khas Minangkabau.",
+      "gambar": "assets/rendang1.jpg"
+    },
+    {
+      "id": 13,
+      "nama": "Coto Makassar",
+      "asal": "Celebes",
+      "harga": 20000,
+      "deskripsi": "Sup daging sapi khas Makassar dengan kuah kacang gurih.",
+      "gambar": "assets/images/coto_makassar.jpg"
+    },
+    {
+      "id": 14,
+      "nama": "Konro Bakar",
+      "asal": "Celebes",
+      "harga": 30000,
+      "deskripsi": "Iga sapi bakar bumbu khas Makassar yang gurih dan pedas.",
+      "gambar": "assets/images/konro_bakar.jpg"
+    },
+    {
+      "id": 15,
+      "nama": "Tinutuan Manado",
+      "asal": "Celebes",
+      "harga": 25000,
+      "deskripsi": "Bubur Manado dari campuran sayuran dan nasi tanpa daging.",
+      "gambar": "assets/images/tinutuan_manado.jpg"
+    },
+    {
+      "id": 16,
+      "nama": "Sup Brenebon",
+      "asal": "Celebes",
+      "harga": 20000,
+      "deskripsi": "Sup kacang merah khas Manado dengan daging sapi dan bumbu rempah.",
+      "gambar": "assets/images/sup_brenebon.jpg"
+    },
+    {
+      "id": 17,
+      "nama": "Papeda",
+      "asal": "Irian Jaya",
+      "harga": 35000,
+      "deskripsi": "Makanan pokok khas Papua dari sagu dengan kuah ikan kuning.",
+      "gambar": "assets/papeda.jpg"
+    },
+    {
+      "id": 18,
+      "nama": "Bubur Sagu",
+      "asal": "Irian Jaya",
+      "harga": 25000,
+      "deskripsi": "Bubur manis dari sagu khas timur Indonesia, disajikan hangat atau dingin.",
+      "gambar": "assets/images/bubur_sagu.jpg"
+    },
+    {
+      "id": 19,
+      "nama": "Ikan Bakar Manokwari",
+      "asal": "Irian Jaya",
+      "harga": 50000,
+      "deskripsi": "Ikan bakar dengan sambal khas Manokwari yang pedas menyengat.",
+      "gambar": "assets/images/ikan_bakar_manokwari.jpg"
+    },
+    {
+      "id": 20,
+      "nama": "Sate Ulat Sagu",
+      "asal": "Irian Jaya",
+      "harga": 40000,
+      "deskripsi": "Sate eksotis dari ulat sagu khas Papua, sumber protein tinggi.",
+      "gambar": "assets/images/sate_ulat_sagu.jpg"
+    },
+    {
+      "id": 21,
+      "nama": "Ayam Taliwang",
+      "asal": "Nusa Tenggara",
+      "harga": 70000,
+      "deskripsi": "Ayam bakar pedas khas Lombok dengan cita rasa rempah kuat.",
+      "gambar": "assets/ayamtaliwang.jpg"
+    },
+    {
+      "id": 22,
+      "nama": "Se'i Sapi",
+      "asal": "Nusa Tenggara",
+      "harga": 50000,
+      "deskripsi": "Daging sapi asap khas Kupang dengan aroma kayu bakar.",
+      "gambar": "assets/images/sei_sapi.jpg"
+    },
+    {
+      "id": 23,
+      "nama": "Jagung Bose",
+      "asal": "Nusa Tenggara",
+      "harga": 30000,
+      "deskripsi": "Sup jagung khas NTT dengan santan dan kacang merah.",
+      "gambar": "assets/images/jagung_bose.jpg"
+    },
+    {
+      "id": 24,
+      "nama": "Rumpu Rampe",
+      "asal": "Nusa Tenggara",
+      "harga": 20000,
+      "deskripsi": "Tumis sayuran daun pepaya dan bunga pepaya khas NTT.",
+      "gambar": "assets/images/rumpu_rampe.jpg"
+    }
+  ],
+  "minuman": [
+    {
+      "id": 1,
+      "nama": "Es Lidah Buaya",
+      "asal": "Borneo",
+      "harga": 20000,
+      "deskripsi": "Minuman segar dari lidah buaya khas Pontianak.",
+      "gambar": "assets/images/es_lidah_buaya.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "Teh Tarik Kalimantan",
+      "asal": "Borneo",
+      "harga": 15000,
+      "deskripsi": "Teh tarik khas Kalimantan dengan buih lembut dan rasa manis seimbang.",
+      "gambar": "assets/images/teh_tarik_kalimantan.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Kopi Banjar",
+      "asal": "Borneo",
+      "harga": 15000,
+      "deskripsi": "Kopi khas Banjar dengan aroma kuat dan cita rasa pahit nikmat.",
+      "gambar": "assets/images/kopi_banjar.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "Air Gula Aren",
+      "asal": "Borneo",
+      "harga": 15000,
+      "deskripsi": "Minuman manis alami dari gula aren cair khas Kalimantan.",
+      "gambar": "assets/images/air_gula_aren.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "Wedang Jahe",
+      "asal": "Java",
+      "harga": 10000,
+      "deskripsi": "Minuman hangat dari rebusan jahe segar, baik untuk kesehatan.",
+      "gambar": "assets/images/wedang_jahe.jpg"
+    },
+    {
+      "id": 6,
+      "nama": "Es Dawet Ayu",
+      "asal": "Java",
+      "harga": 15000,
+      "deskripsi": "Minuman segar dengan cendol hijau, santan, dan gula merah cair.",
+      "gambar": "assets/images/es_dawet_ayu.jpg"
+    },
+    {
+      "id": 7,
+      "nama": "Kopi Tubruk",
+      "asal": "Java",
+      "harga": 10000,
+      "deskripsi": "Kopi hitam khas Jawa dengan seduhan langsung tanpa penyaringan.",
+      "gambar": "assets/images/kopi_tubruk.jpg"
+    },
+    {
+      "id": 8,
+      "nama": "Teh Poci Tegal",
+      "asal": "Java",
+      "harga": 10000,
+      "deskripsi": "Teh melati khas Tegal disajikan dalam poci tanah liat dengan gula batu.",
+      "gambar": "assets/images/teh_poci_tegal.jpg"
+    },
+    {
+      "id": 9,
+      "nama": "Teh Talua",
+      "asal": "Andalas",
+      "harga": 15000,
+      "deskripsi": "Teh telur khas Padang yang unik dan berenergi.",
+      "gambar": "assets/images/teh_talua.jpg"
+    },
+    {
+      "id": 10,
+      "nama": "Kopi Solok",
+      "asal": "Andalas",
+      "harga": 10000,
+      "deskripsi": "Kopi arabika khas Solok dengan cita rasa halus dan sedikit asam.",
+      "gambar": "assets/images/kopi_solok.jpg"
+    },
+    {
+      "id": 11,
+      "nama": "Jus Markisa Medan",
+      "asal": "Andalas",
+      "harga": 20000,
+      "deskripsi": "Minuman segar dari buah markisa khas Medan.",
+      "gambar": "assets/images/jus_markisa_medan.jpg"
+    },
+    {
+      "id": 12,
+      "nama": "Sirup Kurnia",
+      "asal": "Andalas",
+      "harga": 15000,
+      "deskripsi": "Sirup klasik asal Sumatera Barat yang populer disajikan dingin.",
+      "gambar": "assets/images/sirup_kurnia.jpg"
+    },
+    {
+      "id": 13,
+      "nama": "Sarabba",
+      "asal": "Celebes",
+      "harga": 15000,
+      "deskripsi": "Minuman jahe susu khas Makassar untuk menghangatkan tubuh.",
+      "gambar": "assets/images/sarabba.jpg"
+    },
+    {
+      "id": 14,
+      "nama": "Kopi Toraja",
+      "asal": "Celebes",
+      "harga": 15000,
+      "deskripsi": "Kopi arabika khas Toraja dengan aroma rempah dan rasa kompleks.",
+      "gambar": "assets/images/kopi_toraja.jpg"
+    },
+    {
+      "id": 15,
+      "nama": "Es Pisang Ijo",
+      "asal": "Celebes",
+      "harga": 20000,
+      "deskripsi": "Pisang dibalut adonan hijau, disajikan dengan es dan sirup manis.",
+      "gambar": "assets/images/es_pisang_ijo.jpg"
+    },
+    {
+      "id": 16,
+      "nama": "Bajigur Sulawesi",
+      "asal": "Celebes",
+      "harga": 15000,
+      "deskripsi": "Minuman hangat dari santan dan gula aren khas Bugis.",
+      "gambar": "assets/images/bajigur_sulawesi.jpg"
+    },
+    {
+      "id": 17,
+      "nama": "Es Matoa",
+      "asal": "Irian Jaya",
+      "harga": 20000,
+      "deskripsi": "Minuman segar dari buah matoa khas Papua.",
+      "gambar": "assets/images/es_matoa.jpg"
+    },
+    {
+      "id": 18,
+      "nama": "Kopi Wamena",
+      "asal": "Irian Jaya",
+      "harga": 15000,
+      "deskripsi": "Kopi arabika dari pegunungan Wamena dengan aroma lembut.",
+      "gambar": "assets/images/kopi_wamena.jpg"
+    },
+    {
+      "id": 19,
+      "nama": "Jus Buah Merah",
+      "asal": "Irian Jaya",
+      "harga": 25000,
+      "deskripsi": "Jus khas Papua dari buah merah kaya antioksidan.",
+      "gambar": "assets/images/jus_buah_merah.jpg"
+    },
+    {
+      "id": 20,
+      "nama": "Air Kelapa Murni",
+      "asal": "Irian Jaya",
+      "harga": 15000,
+      "deskripsi": "Air kelapa segar khas pesisir Papua.",
+      "gambar": "assets/images/air_kelapa_murni.jpg"
+    },
+    {
+      "id": 21,
+      "nama": "Es Tamarella",
+      "asal": "Nusa Tenggara",
+      "harga": 20000,
+      "deskripsi": "Minuman dari buah asam manis khas NTT.",
+      "gambar": "assets/images/es_tamarella.jpg"
+    },
+    {
+      "id": 22,
+      "nama": "Kopi Flores",
+      "asal": "Nusa Tenggara",
+      "harga": 15000,
+      "deskripsi": "Kopi arabika khas Flores dengan aroma cokelat dan karamel.",
+      "gambar": "assets/images/kopi_flores.jpg"
+    },
+    {
+      "id": 23,
+      "nama": "Sari Madu Sumbawa",
+      "asal": "Nusa Tenggara",
+      "harga": 15000,
+      "deskripsi": "Minuman sehat dari madu alami khas Sumbawa.",
+      "gambar": "assets/images/sari_madu_sumbawa.jpg"
+    },
+    {
+      "id": 24,
+      "nama": "Air Sei Jeruk",
+      "asal": "Nusa Tenggara",
+      "harga": 15000,
+      "deskripsi": "Air jeruk segar khas Kupang yang asam manis menyegarkan.",
+      "gambar": "assets/images/air_sei_jeruk.jpg"
+    }
+  ]
+}
